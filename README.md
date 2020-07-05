@@ -5,7 +5,7 @@ Sistem baş mühəndis və digər mühəndislər üçün tamamilə fərqli işl�
 
 # Fayıllar haqqında
 Artırılan fayıllar 4 hissəyə bölünmüşdür aplikasyia haqqında proyek haqqında və cihazımızın 3d modeli
-
+Artırılan fayllarda (repo-nun içində) #BiznesPlan ilə tanış ola bilərsiniz
 
 # Proektimizin videosu
 https://youtu.be/AhEz8a7oE94

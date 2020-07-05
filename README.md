@@ -34,14 +34,14 @@ https://youtu.be/AhEz8a7oE94
 ![Image 21 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/Screenshot_1593893490.png)
 ![Image 22 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/Screenshot_1593893491.png)
 ![Image 23 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/Screenshot_1593893495.png )
+
+
 # Hardware
 ![Image 24 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/39439097-c697-4be7-b29a-d22536df0183.jpg )
 ![Image 25 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/74ec7a33-8334-49c9-b5d5-3de86c6b0aa5.jpg )
 ![Image 26 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/944b7361-56c4-432c-a5e7-b2c146d7ce2f.jpg )
 ![Image 27 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/944b7361-56c4-432c-a5e7-b2c146d7ce2f.jpg )
 ![Image 28 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/94e37157-869c-4593-9508-94b80f70af83.jpg)
-
-
 
 
 

@@ -54,7 +54,7 @@ https://youtu.be/AhEz8a7oE94
 ![Image Model3d-2 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/Drawing1-Temp0005.png)
 ![Image Model3d-3 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/Drawing1-Temp0006.png)
 
-![Image Model3d ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/project.dwg )
+![Qurğunun 3D modeli AutoCad ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/project.dwg )
 
 
 

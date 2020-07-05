@@ -1,3 +1,5 @@
+# Proektimizin videosu
+https://youtu.be/AhEz8a7oE94
 # AztuComan
 ![Image 1 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/Screenshot_1593893443.png)
 ![Image 2 ](https://github.com/aztucoman-az/aztucoman/blob/master/Screens/Screenshot_1593893445.png)

@@ -1,9 +1,9 @@
-#ArduComan proyektimiz haqqında
+# ArduComan proyektimiz haqqında
 
 Əlavə olunan fayıllarda göründüyü kimi duzlu suyu təmiz suya çevirən qurğumuz mobil (ios/android/) applikasiya ilə idarə oluna və sistemə nəzarət edilə bilinir.
 Sistem baş mühəndis və digər mühəndislər üçün tamamilə fərqli işləyir. Baş mühəndis qurğuya tam nəzarət və süni intellekt ilə idarə sisteminə malikdir (süni intellekt modulu hazırdır ancaq app-a daxil edilməyib) Aplikasiyada sistemin nə qədər su təmizlədiyini faydalı iş əmsalına nəzarət etmək mümkündür.
 
-#Fayıllar haqqında
+# Fayıllar haqqında
 Artırılan fayıllar 4 hissəyə bölünmüşdür aplikasyia haqqında proyek haqqında və cihazımızın 3d modeli
 
 

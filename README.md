@@ -48,7 +48,7 @@ https://youtu.be/AhEz8a7oE94
 
 
 
-#Qurğunun 3d modeli
+# Qurğunun 3d modeli
 
 
 
